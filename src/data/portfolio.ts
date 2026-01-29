@@ -7,7 +7,7 @@ export const portfolioData = {
     github: "https://github.com/yourusername",
     linkedin: "https://www.linkedin.com/in/naman-rohilla",
   },
-  skills: ["Next.js", "React", "Node.js", "MongoDB", "Tailwind CSS"],
+  skills: ["C","C++","Java","HTML","Css","SQL","DBMS","Next.js", "React", "Node.js", "MongoDB", "Tailwind CSS"],
   projects: [],
   education: [],
   experience: []
